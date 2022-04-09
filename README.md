@@ -9,7 +9,7 @@ If you also want to contribute to these notes it would be highly appreciated!
 
 ### How to run locally
 To run locally you first need to [install the Julia programming language](https://julialang.org/downloads/). After downloading the app, launch the application, type `]` and `add Pluto` and click Enter.
-At this point click the Delete key and now type the following\
+At this point click the Delete key and now type the following
 
 `julia> import Pluto` (click enter)\
 `julia> Pluto.run()` (click enter)\
