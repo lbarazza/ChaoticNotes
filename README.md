@@ -12,7 +12,7 @@ To run locally you first need to [install the Julia programming language](https:
 At this point click the Delete key and now type the following
 
 `julia> import Pluto` (click enter)\
-`julia> Pluto.run()` (click enter)\
+`julia> Pluto.run()` (click enter)
 
 This will open up a page in the browser. Now enter the link of the notebook you want to play with in the text box.
 
