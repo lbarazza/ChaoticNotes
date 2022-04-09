@@ -1,7 +1,7 @@
 # ChaoticNotes
 Interactive notes to learn dynamical systems theory.
 
-https://user-images.githubusercontent.com/13474777/162581004-a2a7b99c-2647-4556-88ac-359753e4e532.mp4
+![anim](https://user-images.githubusercontent.com/13474777/162581254-8c7abc1e-8af9-4b0c-b4a2-716c8d299f12.gif)
 
 Hi there! This is a collection of notes to start expoloring the world of dynamical systems (they are mainly Pluto notebooks (Julia) and markdown). The motivation behind this repository is the belief that dynamical systems should really be studied while being able to play around with the parameters and formulas. Because of this hands on approach it is highly suggested that you make use of the interactivity of the notes (where available) by running the notebook on your local machine or using Binder.\
 
