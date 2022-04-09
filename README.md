@@ -18,11 +18,11 @@ This will open up a page in the browser. Now enter the link of the notebook you 
 
 Here is the list of the notebooks with the corresponding link associated (just right click and select copy link):
 
-##### Discrete Dynamical Systems
+#### Discrete Dynamical Systems
 
 1. [The Logistic Map](https://github.com/lbarazza/ChaoticNotes/blob/main/DiscreteSystems/ChaoticNotesDLMap.jl)
 
-##### Continuous Dynamical Systems
+#### Continuous Dynamical Systems
 
 Coming soon!
 
