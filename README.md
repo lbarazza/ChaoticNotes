@@ -5,9 +5,10 @@ Hi there! This is a collection of notes to start expoloring the world of dynamic
 
 ### How to run locally
 To run locally you first need to [install the Julia programming language](https://julialang.org/downloads/). After downloading the app, launch the application, type `]` and `add Pluto` and click Enter.
-At this point click the Delete key and now type the following
-`import Pluto` (click enter)
-`Pluto.run()` (click enter)
+At this point click the Delete key and now type the following\
+
+`julia> import Pluto` (click enter)\
+`julia> Pluto.run()` (click enter)\
 
 This will open up a page in the browser. Now enter the link of the notebook you want to play with in the specifies box.
 
