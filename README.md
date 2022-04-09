@@ -1,2 +1,26 @@
 # ChaoticNotes
 Interactive notes to learn dynamical systems theory.
+
+Hi there! This is a collection of notes to start expoloring the world of dynamical systems (they are mainly Pluto notebooks (Julia) and markdown). The motivation behind this repository is the belief that dynamical systems should really be studied while being able to play around with the parameters and formulas. Because of this hands on approach it is highly suggested that you make use of the interactivity of the notes (where available) by using Binder or running the notebook on your local machine.
+
+### How to run locally
+To run locally you first need to [install the Julia programming language](https://julialang.org/downloads/). After downloading the app, launch the application, type ']' and 'add Pluto' and click Enter.
+At this point click the Delete key and now type the following
+'import Pluto' (click enter)
+'Pluto.run()' (click enter)
+
+This will open up a page in the browser. Now enter the link of the notebook you want to play with in the specifies box.
+
+Here is the list of the notebooks with the corresponding link associated:
+
+##### Discrete Dynamical Systems
+
+1. The Logistic Map -> https://github.com/lbarazza/ChaoticNotes/blob/main/DiscreteSystems/ChaoticNotesDLMap.jl
+
+##### Continuous Dynamical Systems
+
+Coming soon!
+
+### How to run on the web
+
+Currently working on support with Binder. Hopefully coming soon!
